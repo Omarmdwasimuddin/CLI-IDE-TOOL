@@ -1,6 +1,7 @@
 ## CLI-IDE-TOOL
 
-- Cursor ide
-- codex cli
-- claude cli
-- gemini cli
+- Cursor IDE
+- Codex CLI
+- Claude CLI
+- Gemini CLI
+- Antigrapity IDE
