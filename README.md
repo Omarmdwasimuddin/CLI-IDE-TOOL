@@ -6,3 +6,4 @@
 - Gemini CLI
 - Antigrapity IDE
 - Qwen Code CLI
+- Windsurf IDE
