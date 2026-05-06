@@ -5,3 +5,4 @@
 - Claude CLI
 - Gemini CLI
 - Antigrapity IDE
+- Qwen Code CLI
